@@ -5,8 +5,8 @@ code/: This directory contains the source code used for data analysis and model 
 # How to Use:
 1. Clone the repository: git clone https://github.com/EthanK-H/Search-for-evidence-of-climate-change-in-UK-weather-data.git
 2. Navigate to the project directory: cd Search-for-evidence-of-climate-change-in-UK-weather-data
-3. Run the notebook: python code/data_preprocessing.py
-4. Read the report for detailed findings: open report/MSci_Project_Report.pdf
+3. Run the notebook: python code/Searching_for_evidence_of_climate_change.ipynb
+4. Read the report for detailed findings: open report/Search_for_evidence_of_climate_change_in_UK_weather_data_report.pdf
 
 This project is open for collaboration and improvements. Feel free to fork the repository and submit pull requests. Thank you for your interest in our study on the evidence of climate change in UK weather data.
 
